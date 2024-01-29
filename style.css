@@ -303,8 +303,7 @@ main{
     }
 
     .contenedor-copiar{
-        top: 69%;
-        position: fixed;
+        display: none;
     }
 
 }
